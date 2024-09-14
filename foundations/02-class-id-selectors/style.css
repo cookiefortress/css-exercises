@@ -1,0 +1,20 @@
+.genericClass {
+    background-color: salmon;
+    font-family: Verdana, Dejavu-Sans, sans-serif;
+}
+
+.genericClass#coolerClass {
+    font-size: 21px;
+    font-weight: 560;
+}
+
+#numberTwo {
+    color: blue;
+    font-size: 36px;
+}
+
+#numberFour {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
